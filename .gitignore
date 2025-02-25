@@ -1,0 +1,20 @@
+# Ignore environment secrets
+/env/.env.influxdb2-*
+
+# Ignore InfluxDB data and config volumes
+influxdb2-data/
+influxdb2-config/
+
+# Ignore Docker-related files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo

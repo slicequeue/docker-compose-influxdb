@@ -112,11 +112,11 @@ $ docker-compose up
 
 로그 내용 잘 보고 잘 로그 잘 찍히고 잘 실행 되면 [http://localhost:8086](http://localhost:8056) 접속 후 위 계정 정보에 따라 접속 잘 되면 정상적으로 잘 적용이 된 것이다!
 
-![image.png](attachment:6e68233e-8164-45e2-95fd-7eb54b21510f:image.png)
 
-![image.png](attachment:ee0540bb-ff5f-4e82-b706-325a44d4eb1f:image.png)
+![image](https://github.com/user-attachments/assets/c6eb25dc-ce9b-4d45-bafe-d0654a6eb9da)
+![image](https://github.com/user-attachments/assets/ac407a5c-9acb-49c7-ab19-8c6ea338793f)
 
-![image.png](attachment:f14f144e-7238-40a9-9034-57045d32fdf7:image.png)
+
 
 ### 기타
 
